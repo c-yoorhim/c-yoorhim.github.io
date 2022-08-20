@@ -3189,7 +3189,7 @@ input, select, textarea {
 				#header p {
 					font-size: 1em;
 					letter-spacing: 0.25em;
-          line-height: 0em;
+          line-height: 1em;
 				}
 
 					#header p br {
