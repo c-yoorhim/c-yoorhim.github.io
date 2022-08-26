@@ -106,10 +106,10 @@ input, select, textarea {
 */
 	body {
 		background-color: #89c2d9;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #014f86 15%, #012a4a 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #014f86 15%, #012a4a 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #014f86 15%, #012a4a 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #014f86 15%, #012a4a 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #014f86 30%, #012a4a 70%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #014f86 30%, #012a4a 70%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #014f86 30%, #012a4a 70%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #014f86 30%, #012a4a 70%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -162,7 +162,7 @@ input, select, textarea {
 
     .responsive {
       width: 100%;
-      max-width: 400px;
+      max-width: 600px;
       height: auto;
     }
 
